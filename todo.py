@@ -30,8 +30,9 @@ def display_tasks(file: TextIO) -> None:
     lines: list[str] = file.readlines()
     if not lines:
         print("Tasks list is empty")
-    for line in lines:
-        print(line, end="")
+    else:
+        for line in lines:
+            print(line, end="")
 
 
 def add_task(file: TextIO) -> None:
