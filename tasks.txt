@@ -1,9 +1,4 @@
-Task 1
-Another Task
-Second Task
-Third Task
-123
-true
-false
-592130
-QuiT 
+have fun
+eat well
+add this
+add that
